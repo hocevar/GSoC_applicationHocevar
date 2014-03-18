@@ -1,0 +1,1 @@
+My Google Summer Of Code entry for beaglebone project. It demonstrates my knowledge of cross compiling for arm. I used arm-linux-gnueabi-gcc and make. 
